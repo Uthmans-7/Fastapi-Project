@@ -1,0 +1,8 @@
+blog-venv/
+__pycache__/
+.vs/
+*.db
+.env
+*.log
+*.sqlite3
+
