@@ -36,3 +36,5 @@ def create_blog(blog: Blog):
 @app.get("/status")
 def get_status():
     return {"status": "API is running smoothly"}
+
+# Version A: Original Line
