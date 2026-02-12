@@ -37,4 +37,4 @@ def create_blog(blog: Blog):
 def get_status():
     return {"status": "API is running smoothly"}
 
-# Version A: Original Line
+# Version C: Change from Branch Two
